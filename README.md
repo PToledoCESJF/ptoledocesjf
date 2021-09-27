@@ -3,7 +3,8 @@
 ![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
-Sou apaixonado por programação e sempre disposto a aprender algo novo. Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
+Sou apaixonado por tecnologia e desenvolvimento de software e sempre disposto a aprender algo novo. 
+Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Ptol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
