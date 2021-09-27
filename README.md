@@ -1,9 +1,8 @@
-## Olá, sou Paulo Toledo
-
 ![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
+## Olá, sou Paulo Toledo
 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
-Sou apaixonado por tecnologia e desenvolvimento de software e sempre disposto a aprender algo novo. 
+Apaixonado por tecnologia e desenvolvimento de software e sempre disposto a aprender algo novo. 
 Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
 ##
 <div style="display: inline_block"><br>
@@ -20,16 +19,7 @@ Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimen
 
 ##
 
-<div align="center">
-  <a href="https://github.com/ptoledocesjf">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ptoledocesjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoledocesjf&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-##
-
-
+## Meus contatos
 
 <div> 
   <a href="https://www.linkedin.com/in/paulo-toledo-0488b1174/" target="_blank">
@@ -38,8 +28,17 @@ Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimen
   <a href = "mailto:ptoledo.bsices@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  
   <a href = "mailto:paulodat.902522195@uniacademia.edu.br">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank" />
   </a>
 </div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/ptoledocesjf">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ptoledocesjf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptoledocesjf&layout=compact&langs_count=7&theme=dracula" />
+  </a>
+</div>
+                                                                                                                                              
