@@ -1,6 +1,6 @@
-# Olá, sou Paulo Toledo
+## Olá, sou Paulo Toledo
 
-![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Spring%26React.png)
+![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
 Sou apaixonado por programação e sempre disposto a aprender algo novo. Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
