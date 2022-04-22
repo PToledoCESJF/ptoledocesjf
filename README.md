@@ -1,6 +1,6 @@
 ![Imagem](https://github.com/PToledoCESJF/ptoledocesjf/blob/main/assets/Capa.png)
 ##
-## Olá, sou Paulo Toledo
+## Olá, sou Paulo
 Bacharel em Sistemas de Informação formado pelo [Centro Universitário Academia - UniAcademia](https://www.uniacademia.edu.br). 
 Apaixonado por tecnologia e desenvolvimento de software e sempre disposto a aprender algo novo. 
 Dentre as linguagens, bibliotecas e frameworks aos quais possuo algum conhecimento quero destacar as seguintes:
